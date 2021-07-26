@@ -1,2 +1,2 @@
-*.agdai
-MAlonzo/**
+# Ignore the config.js file.
+config.js
